@@ -3,84 +3,84 @@
 <!--Posts-->
   
     <url>
-  <loc>/blog/demo-post-8</loc>
+  <loc>https://dzinemon.github.io/test/blog/demo-post-8</loc>
   
   
 </url>
 
   
     <url>
-  <loc>/blog/demo-post-7</loc>
+  <loc>https://dzinemon.github.io/test/blog/demo-post-7</loc>
   
   
 </url>
 
   
     <url>
-  <loc>/blog/demo-post-6</loc>
+  <loc>https://dzinemon.github.io/test/blog/demo-post-6</loc>
   
   
 </url>
 
   
     <url>
-  <loc>/blog/demo-post-5</loc>
+  <loc>https://dzinemon.github.io/test/blog/demo-post-5</loc>
   
   
 </url>
 
   
     <url>
-  <loc>/blog/demo-post-4</loc>
+  <loc>https://dzinemon.github.io/test/blog/demo-post-4</loc>
   
   
 </url>
 
   
     <url>
-  <loc>/blog/demo-post-3</loc>
+  <loc>https://dzinemon.github.io/test/blog/demo-post-3</loc>
   
   
 </url>
 
   
     <url>
-  <loc>/blog/demo-post-2</loc>
+  <loc>https://dzinemon.github.io/test/blog/demo-post-2</loc>
   
   
 </url>
 
   
     <url>
-  <loc>/blog/demo-post-1</loc>
+  <loc>https://dzinemon.github.io/test/blog/demo-post-1</loc>
   
   
 </url>
 
   
     <url>
-  <loc>/blog/demo-post-9</loc>
+  <loc>https://dzinemon.github.io/test/blog/demo-post-9</loc>
   
   
 </url>
 
   
     <url>
-  <loc>/blog/welcome-to-ae</loc>
+  <loc>https://dzinemon.github.io/test/blog/welcome-to-ae</loc>
   
   
 </url>
 
   
     <url>
-  <loc>/blog/demo-post-10</loc>
+  <loc>https://dzinemon.github.io/test/blog/demo-post-10</loc>
   
   
 </url>
 
   
     <url>
-  <loc>/blog/alpahedge-momentum-intro</loc>
+  <loc>https://dzinemon.github.io/test/blog/alpahedge-momentum-intro</loc>
   
   
 </url>
@@ -90,7 +90,7 @@
   
     
       <url>
-  <loc>/404/</loc>
+  <loc>https://dzinemon.github.io/test/404/</loc>
   
   
 </url>
@@ -99,7 +99,7 @@
   
     
       <url>
-  <loc>/contact/</loc>
+  <loc>https://dzinemon.github.io/test/contact/</loc>
   
   
 </url>
@@ -108,7 +108,7 @@
   
     
       <url>
-  <loc>/blog/</loc>
+  <loc>https://dzinemon.github.io/test/blog/</loc>
   
   
 </url>
@@ -117,7 +117,7 @@
   
     
       <url>
-  <loc>/</loc>
+  <loc>https://dzinemon.github.io/test/</loc>
   
   
 </url>
@@ -126,7 +126,7 @@
   
     
       <url>
-  <loc>/blog/mean-reversion/</loc>
+  <loc>https://dzinemon.github.io/test/blog/mean-reversion/</loc>
   
   
 </url>
@@ -135,7 +135,7 @@
   
     
       <url>
-  <loc>/blog/momentum/</loc>
+  <loc>https://dzinemon.github.io/test/blog/momentum/</loc>
   
   
 </url>
@@ -144,7 +144,7 @@
   
     
       <url>
-  <loc>/blog/portfolio-optimization/</loc>
+  <loc>https://dzinemon.github.io/test/blog/portfolio-optimization/</loc>
   
   
 </url>
@@ -153,7 +153,7 @@
   
     
       <url>
-  <loc>/pricing/</loc>
+  <loc>https://dzinemon.github.io/test/pricing/</loc>
   
   
 </url>
@@ -162,36 +162,7 @@
   
     
       <url>
-  <loc>/search</loc>
-  
-  
-</url>
-
-    
-  
-    
-  
-    
-      <url>
-  <loc>/support/</loc>
-  
-  
-</url>
-
-    
-  
-    
-      <url>
-  <loc>/blog/technical-analysis/</loc>
-  
-  
-</url>
-
-    
-  
-    
-      <url>
-  <loc>/blog/volatility/</loc>
+  <loc>https://dzinemon.github.io/test/search</loc>
   
   
 </url>
@@ -202,7 +173,36 @@
   
     
       <url>
-  <loc>/blog/page2/</loc>
+  <loc>https://dzinemon.github.io/test/support/</loc>
+  
+  
+</url>
+
+    
+  
+    
+      <url>
+  <loc>https://dzinemon.github.io/test/blog/technical-analysis/</loc>
+  
+  
+</url>
+
+    
+  
+    
+      <url>
+  <loc>https://dzinemon.github.io/test/blog/volatility/</loc>
+  
+  
+</url>
+
+    
+  
+    
+  
+    
+      <url>
+  <loc>https://dzinemon.github.io/test/blog/page2/</loc>
   
   
 </url>
@@ -213,35 +213,35 @@
 <!--Trading solutions Pages-->
   
       <url>
-  <loc>/trading-software-solutions/</loc>
+  <loc>https://dzinemon.github.io/test/trading-software-solutions/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-software-solutions/live-trading/</loc>
+  <loc>https://dzinemon.github.io/test/trading-software-solutions/live-trading/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-software-solutions/portfolio-backtest/</loc>
+  <loc>https://dzinemon.github.io/test/trading-software-solutions/portfolio-backtest/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-software-solutions/portfolio-management/</loc>
+  <loc>https://dzinemon.github.io/test/trading-software-solutions/portfolio-management/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-software-solutions/risk-analysis/</loc>
+  <loc>https://dzinemon.github.io/test/trading-software-solutions/risk-analysis/</loc>
   
   
 </url>
@@ -251,133 +251,133 @@
 <!--Trading strategies-->
   
       <url>
-  <loc>/trading-strategies/</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/mean-reversion/demo-strategy-1</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/mean-reversion/demo-strategy-1</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/mean-reversion/demo-strategy-2</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/mean-reversion/demo-strategy-2</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/mean-reversion/</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/mean-reversion/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/momentum/demo-strategy-1</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/momentum/demo-strategy-1</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/momentum/demo-strategy-2</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/momentum/demo-strategy-2</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/momentum/</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/momentum/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/momentum/protective-asset-momentum</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/momentum/protective-asset-momentum</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/portfolio-optimization/demo-optimization</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/portfolio-optimization/demo-optimization</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/portfolio-optimization/demo-strategy-1</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/portfolio-optimization/demo-strategy-1</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/portfolio-optimization/demo-strategy-2</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/portfolio-optimization/demo-strategy-2</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/portfolio-optimization/</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/portfolio-optimization/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/portfolio-optimization/mean-variance-optimizer</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/portfolio-optimization/mean-variance-optimizer</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/technical-analysis/demo-strategy-1</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/technical-analysis/demo-strategy-1</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/technical-analysis/demo-strategy-2</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/technical-analysis/demo-strategy-2</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/technical-analysis/</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/technical-analysis/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/volatility/demo-strategy-1</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/volatility/demo-strategy-1</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/volatility/demo-strategy-2</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/volatility/demo-strategy-2</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/trading-strategies/volatility/</loc>
+  <loc>https://dzinemon.github.io/test/trading-strategies/volatility/</loc>
   
   
 </url>
@@ -386,98 +386,98 @@
 <!--Documentation-->
   
       <url>
-  <loc>/docs/developer-guide/developer-guide-basics</loc>
+  <loc>https://dzinemon.github.io/test/docs/developer-guide/developer-guide-basics</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/docs/developer-guide/developer-guide-overview</loc>
+  <loc>https://dzinemon.github.io/test/docs/developer-guide/developer-guide-overview</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/docs/developer-guide/</loc>
+  <loc>https://dzinemon.github.io/test/docs/developer-guide/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/docs/framework-api/framework-basics</loc>
+  <loc>https://dzinemon.github.io/test/docs/framework-api/framework-basics</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/docs/framework-api/framework-overview</loc>
+  <loc>https://dzinemon.github.io/test/docs/framework-api/framework-overview</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/docs/framework-api/</loc>
+  <loc>https://dzinemon.github.io/test/docs/framework-api/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/docs/</loc>
+  <loc>https://dzinemon.github.io/test/docs/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/docs/search</loc>
+  <loc>https://dzinemon.github.io/test/docs/search</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/docs/tutorials/</loc>
+  <loc>https://dzinemon.github.io/test/docs/tutorials/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/docs/tutorials/tutorial-guide</loc>
+  <loc>https://dzinemon.github.io/test/docs/tutorials/tutorial-guide</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/docs/tutorials/tutorial-overview</loc>
+  <loc>https://dzinemon.github.io/test/docs/tutorials/tutorial-overview</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/docs/user-guide/demo-guide</loc>
+  <loc>https://dzinemon.github.io/test/docs/user-guide/demo-guide</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/docs/user-guide/demo-overview</loc>
+  <loc>https://dzinemon.github.io/test/docs/user-guide/demo-overview</loc>
   
   
 </url>
 
   
       <url>
-  <loc>/docs/user-guide/</loc>
+  <loc>https://dzinemon.github.io/test/docs/user-guide/</loc>
   
   
 </url>
