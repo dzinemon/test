@@ -3,84 +3,84 @@
 <!--Posts-->
   
     <url>
-  <loc>http://localhost:4000/blog/demo-post-8</loc>
+  <loc>/blog/demo-post-8</loc>
   
   
 </url>
 
   
     <url>
-  <loc>http://localhost:4000/blog/demo-post-7</loc>
+  <loc>/blog/demo-post-7</loc>
   
   
 </url>
 
   
     <url>
-  <loc>http://localhost:4000/blog/demo-post-6</loc>
+  <loc>/blog/demo-post-6</loc>
   
   
 </url>
 
   
     <url>
-  <loc>http://localhost:4000/blog/demo-post-5</loc>
+  <loc>/blog/demo-post-5</loc>
   
   
 </url>
 
   
     <url>
-  <loc>http://localhost:4000/blog/demo-post-4</loc>
+  <loc>/blog/demo-post-4</loc>
   
   
 </url>
 
   
     <url>
-  <loc>http://localhost:4000/blog/demo-post-3</loc>
+  <loc>/blog/demo-post-3</loc>
   
   
 </url>
 
   
     <url>
-  <loc>http://localhost:4000/blog/demo-post-2</loc>
+  <loc>/blog/demo-post-2</loc>
   
   
 </url>
 
   
     <url>
-  <loc>http://localhost:4000/blog/demo-post-1</loc>
+  <loc>/blog/demo-post-1</loc>
   
   
 </url>
 
   
     <url>
-  <loc>http://localhost:4000/blog/demo-post-9</loc>
+  <loc>/blog/demo-post-9</loc>
   
   
 </url>
 
   
     <url>
-  <loc>http://localhost:4000/blog/welcome-to-ae</loc>
+  <loc>/blog/welcome-to-ae</loc>
   
   
 </url>
 
   
     <url>
-  <loc>http://localhost:4000/blog/demo-post-10</loc>
+  <loc>/blog/demo-post-10</loc>
   
   
 </url>
 
   
     <url>
-  <loc>http://localhost:4000/blog/alpahedge-momentum-intro</loc>
+  <loc>/blog/alpahedge-momentum-intro</loc>
   
   
 </url>
@@ -90,7 +90,7 @@
   
     
       <url>
-  <loc>http://localhost:4000/404/</loc>
+  <loc>/404/</loc>
   
   
 </url>
@@ -99,7 +99,7 @@
   
     
       <url>
-  <loc>http://localhost:4000/contact/</loc>
+  <loc>/contact/</loc>
   
   
 </url>
@@ -108,7 +108,7 @@
   
     
       <url>
-  <loc>http://localhost:4000/blog/</loc>
+  <loc>/blog/</loc>
   
   
 </url>
@@ -117,7 +117,7 @@
   
     
       <url>
-  <loc>http://localhost:4000/</loc>
+  <loc>/</loc>
   
   
 </url>
@@ -126,7 +126,7 @@
   
     
       <url>
-  <loc>http://localhost:4000/blog/mean-reversion/</loc>
+  <loc>/blog/mean-reversion/</loc>
   
   
 </url>
@@ -135,7 +135,7 @@
   
     
       <url>
-  <loc>http://localhost:4000/blog/momentum/</loc>
+  <loc>/blog/momentum/</loc>
   
   
 </url>
@@ -144,7 +144,7 @@
   
     
       <url>
-  <loc>http://localhost:4000/blog/portfolio-optimization/</loc>
+  <loc>/blog/portfolio-optimization/</loc>
   
   
 </url>
@@ -153,7 +153,7 @@
   
     
       <url>
-  <loc>http://localhost:4000/pricing/</loc>
+  <loc>/pricing/</loc>
   
   
 </url>
@@ -162,36 +162,7 @@
   
     
       <url>
-  <loc>http://localhost:4000/search</loc>
-  
-  
-</url>
-
-    
-  
-    
-  
-    
-      <url>
-  <loc>http://localhost:4000/support/</loc>
-  
-  
-</url>
-
-    
-  
-    
-      <url>
-  <loc>http://localhost:4000/blog/technical-analysis/</loc>
-  
-  
-</url>
-
-    
-  
-    
-      <url>
-  <loc>http://localhost:4000/blog/volatility/</loc>
+  <loc>/search</loc>
   
   
 </url>
@@ -202,7 +173,36 @@
   
     
       <url>
-  <loc>http://localhost:4000/blog/page2/</loc>
+  <loc>/support/</loc>
+  
+  
+</url>
+
+    
+  
+    
+      <url>
+  <loc>/blog/technical-analysis/</loc>
+  
+  
+</url>
+
+    
+  
+    
+      <url>
+  <loc>/blog/volatility/</loc>
+  
+  
+</url>
+
+    
+  
+    
+  
+    
+      <url>
+  <loc>/blog/page2/</loc>
   
   
 </url>
@@ -213,35 +213,35 @@
 <!--Trading solutions Pages-->
   
       <url>
-  <loc>http://localhost:4000/trading-software-solutions/</loc>
+  <loc>/trading-software-solutions/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-software-solutions/live-trading/</loc>
+  <loc>/trading-software-solutions/live-trading/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-software-solutions/portfolio-backtest/</loc>
+  <loc>/trading-software-solutions/portfolio-backtest/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-software-solutions/portfolio-management/</loc>
+  <loc>/trading-software-solutions/portfolio-management/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-software-solutions/risk-analysis/</loc>
+  <loc>/trading-software-solutions/risk-analysis/</loc>
   
   
 </url>
@@ -251,133 +251,133 @@
 <!--Trading strategies-->
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/</loc>
+  <loc>/trading-strategies/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/mean-reversion/demo-strategy-1</loc>
+  <loc>/trading-strategies/mean-reversion/demo-strategy-1</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/mean-reversion/demo-strategy-2</loc>
+  <loc>/trading-strategies/mean-reversion/demo-strategy-2</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/mean-reversion/</loc>
+  <loc>/trading-strategies/mean-reversion/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/momentum/demo-strategy-1</loc>
+  <loc>/trading-strategies/momentum/demo-strategy-1</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/momentum/demo-strategy-2</loc>
+  <loc>/trading-strategies/momentum/demo-strategy-2</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/momentum/</loc>
+  <loc>/trading-strategies/momentum/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/momentum/protective-asset-momentum</loc>
+  <loc>/trading-strategies/momentum/protective-asset-momentum</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/portfolio-optimization/demo-optimization</loc>
+  <loc>/trading-strategies/portfolio-optimization/demo-optimization</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/portfolio-optimization/demo-strategy-1</loc>
+  <loc>/trading-strategies/portfolio-optimization/demo-strategy-1</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/portfolio-optimization/demo-strategy-2</loc>
+  <loc>/trading-strategies/portfolio-optimization/demo-strategy-2</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/portfolio-optimization/</loc>
+  <loc>/trading-strategies/portfolio-optimization/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/portfolio-optimization/mean-variance-optimizer</loc>
+  <loc>/trading-strategies/portfolio-optimization/mean-variance-optimizer</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/technical-analysis/demo-strategy-1</loc>
+  <loc>/trading-strategies/technical-analysis/demo-strategy-1</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/technical-analysis/demo-strategy-2</loc>
+  <loc>/trading-strategies/technical-analysis/demo-strategy-2</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/technical-analysis/</loc>
+  <loc>/trading-strategies/technical-analysis/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/volatility/demo-strategy-1</loc>
+  <loc>/trading-strategies/volatility/demo-strategy-1</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/volatility/demo-strategy-2</loc>
+  <loc>/trading-strategies/volatility/demo-strategy-2</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/trading-strategies/volatility/</loc>
+  <loc>/trading-strategies/volatility/</loc>
   
   
 </url>
@@ -386,98 +386,98 @@
 <!--Documentation-->
   
       <url>
-  <loc>http://localhost:4000/docs/developer-guide/developer-guide-basics</loc>
+  <loc>/docs/developer-guide/developer-guide-basics</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/docs/developer-guide/developer-guide-overview</loc>
+  <loc>/docs/developer-guide/developer-guide-overview</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/docs/developer-guide/</loc>
+  <loc>/docs/developer-guide/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/docs/framework-api/framework-basics</loc>
+  <loc>/docs/framework-api/framework-basics</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/docs/framework-api/framework-overview</loc>
+  <loc>/docs/framework-api/framework-overview</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/docs/framework-api/</loc>
+  <loc>/docs/framework-api/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/docs/</loc>
+  <loc>/docs/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/docs/search</loc>
+  <loc>/docs/search</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/docs/tutorials/</loc>
+  <loc>/docs/tutorials/</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/docs/tutorials/tutorial-guide</loc>
+  <loc>/docs/tutorials/tutorial-guide</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/docs/tutorials/tutorial-overview</loc>
+  <loc>/docs/tutorials/tutorial-overview</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/docs/user-guide/demo-guide</loc>
+  <loc>/docs/user-guide/demo-guide</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/docs/user-guide/demo-overview</loc>
+  <loc>/docs/user-guide/demo-overview</loc>
   
   
 </url>
 
   
       <url>
-  <loc>http://localhost:4000/docs/user-guide/</loc>
+  <loc>/docs/user-guide/</loc>
   
   
 </url>
