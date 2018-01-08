@@ -1,0 +1,19 @@
+{
+  "name": "alphaedge.io",
+  "version": "1.0.0",
+  "description": "https://alphaedge.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechRising/alphaedge.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechRising/alphaedge.io/issues"
+  },
+  "homepage": "https://github.com/TechRising/alphaedge.io#readme"
+}

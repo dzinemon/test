@@ -1,0 +1,55 @@
+/*! Place your custom styles here */
+.dropdown .dropdown__content.bordered {
+  border-radius: 0;
+}
+
+.menu-vertical li a.docs-home {
+  font-weight: 700;
+}
+
+.menu-vertical li.dropdown:after {
+  color: #4a90e2;
+}
+
+.list-indent {
+  margin-left: 10px;
+}
+
+/*Menu item styling*/
+.menu-horizontal > li:not(:hover) > a,
+.menu-horizontal > li:not(:hover) > span,
+.menu-horizontal > li:not(:hover) > .modal-instance > .modal-trigger {
+  opacity: .7;
+}
+
+.menu-horizontal > li > a,
+.menu-horizontal > li > span,
+.menu-horizontal > li > .modal-instance > .modal-trigger {
+  color: #252525;
+}
+.menu-horizontal > li > a:hover,
+.menu-horizontal > li > span:hover,
+.menu-horizontal > li > .modal-instance > .modal-trigger:hover {
+  color: #252525;
+}
+
+.dropdown .dropdown__content:not([class='bg--dark']) .menu-vertical a {
+  color: #333333;
+}
+
+
+.menu-vertical > .dropdown > .dropdown__trigger,
+.nav-sidebar-column .dropdown .dropdown__content:not([class='bg--dark']) .menu-vertical a {
+  color: #4a90e2;
+}
+
+.nav-sidebar-column.docs-menu {
+  position: static;
+  width: auto;
+  height: auto;
+  padding: 0;
+  background-color: transparent;
+  border-right: 0;
+  overflow-y: scroll;
+  -ms-overflow-style: none;
+}
